@@ -1,1 +1,1 @@
-# ECS2023 - Smoother Quit Breaking the Nicotine Habit
+# ECS1002 - Smoother Quit Breaking the Nicotine Habit
